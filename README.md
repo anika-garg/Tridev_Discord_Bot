@@ -1,6 +1,6 @@
 # The Discord Digest Codebase
 
-This discord bot is Team 3's submission for the Fall 2020 Tri-Dev Quarterly Project.
+This discord bot is Team 3's submission for the Spring 2021 Tri-Dev Quarterly Project.
 
 ![screenshot](https://raw.githubusercontent.com/Kethan02/TriDev-Discord-Bot/main/Screenshot.png)
 
